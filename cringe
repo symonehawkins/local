@@ -1,0 +1,12 @@
+~ $ pwd
+/Users/symonehawkins
+~ $ cd project/
+projects $ pwd
+/Users/symonehawkins/projects
+projects $ git init fresh-project
+Initialized empty Git repository in /Users/symonehawkins/projects/:
+projects $ ls
+fresh-project/
+projects $ cd fresh-project/
+(master) fresh-project $ ls
+(master) fresh-project $ ls -al
